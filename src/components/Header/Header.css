@@ -1,0 +1,10 @@
+.header-area{
+    margin-top: 10px;
+}
+
+.header-area a{
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+}
